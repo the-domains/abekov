@@ -1,0 +1,28 @@
+name: temp
+favicon: null
+layout_spectrum: 0.616039641899988
+typography_spectrum: 0.745398823870346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7169516421854496
+  lightness: 0.02536398801021278
+  saturation: 0.605163139058277
+  rhythmicContrast: 0.8822454297915101
+purpose: []
